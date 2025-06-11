@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61552b9dcb85bb34281ded238dcef441, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    charname: "\uC720\uC6B0\uCE74"
+    charclubname: "\uC138\uBBF8\uB098"
+    charimage: Yuuka_00
+    charinfo: "\uC720\uC6B0\uCE74_\uAE30\uBCF8\uD45C\uC815"
+  - id: 10102
+    charname: "\uC720\uC6B0\uCE74"
+    charclubname: "\uC138\uBBF8\uB098"
+    charimage: Yuuka_06
+    charinfo: "\uC720\uC6B0\uCE74_\uC2AC\uD508\uD45C\uC815"
+  - id: 10103
+    charname: "\uC720\uC6B0\uCE74"
+    charclubname: "\uC138\uBBF8\uB098"
+    charimage: Yuuka_03
+    charinfo: "\uC720\uC6B0\uCE74_\uC6C3\uB294\uD45C\uC815"
+  - id: 10104
+    charname: "\uC720\uC6B0\uCE74"
+    charclubname: "\uC138\uBBF8\uB098"
+    charimage: Yuuka_05
+    charinfo: "\uC720\uC6B0\uCE74_\uD654\uB09C\uD45C\uC815"
+  - id: 10105
+    charname: "\uC720\uC6B0\uCE74"
+    charclubname: "\uC138\uBBF8\uB098"
+    charimage: Yuuka_04
+    charinfo: "\uC720\uC6B0\uCE74_\uB180\uB780\uD45C\uC815"
+  - id: 10201
+    charname: "\uBAA8\uBAA8\uC774"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: Momoi_Idle
+    charinfo: 
+  - id: 10202
+    charname: "\uBAA8\uBAA8\uC774"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: Momoi_Sad
+    charinfo: 
+  - id: 10203
+    charname: "\uBAA8\uBAA8\uC774"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: Momoi_Happy
+    charinfo: 
+  - id: 10204
+    charname: "\uBAA8\uBAA8\uC774"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: Momoi_Angry
+    charinfo: 
+  - id: 10205
+    charname: "\uBAA8\uBAA8\uC774"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: Momoi_Surpised
+    charinfo: 
+  - id: 10301
+    charname: "\uBBF8\uB3C4\uB9AC"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: 
+    charinfo: 
+  - id: 10302
+    charname: "\uBBF8\uB3C4\uB9AC"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: 
+    charinfo: 
+  - id: 10303
+    charname: "\uBBF8\uB3C4\uB9AC"
+    charclubname: "\uAC8C\uC784\uAC1C\uBC1C\uBD80"
+    charimage: 
+    charinfo: 
+  - id: 0
+    charname: 
+    charclubname: 
+    charimage: 
+    charinfo: 
+  - id: 0
+    charname: 
+    charclubname: 
+    charimage: 
+    charinfo: 
+  - id: 0
+    charname: 
+    charclubname: 
+    charimage: 
+    charinfo: 
+  - id: 0
+    charname: 
+    charclubname: 
+    charimage: 
+    charinfo: 
+  - id: 0
+    charname: 
+    charclubname: 
+    charimage: 
+    charinfo: 
+  - id: 0
+    charname: 
+    charclubname: 
+    charimage: 
+    charinfo: 
